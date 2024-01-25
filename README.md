@@ -1,8 +1,9 @@
 ### Hi there 
 
-
+![Codewars](https://www.codewars.com/users/andrews-quest/badges/large)
+<!--
 ![Codewars](https://github.r2v.ch/codewars?user=andrews-quest&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
-
+-->
 **You can reach me via email: andrii.roshkovan@gmail.com**
 <!--
 **andrews-quest/andrews-quest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
