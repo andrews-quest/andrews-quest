@@ -3,7 +3,7 @@ I am a Backend Developer originationg from Ukraine, currently living, studying a
 
 ## Arduino Nano Projects:
 I learned a lot from them and it was a huge fun!
-![Check out the Footage](https://youtu.be/MHeMFTgxyAI)
+[Check out the Footage](https://youtu.be/MHeMFTgxyAI)
 
 ## Codewars
 It helps me a lot to get in shape in a new language or to maintain my skill in my usual ones.
