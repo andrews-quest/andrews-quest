@@ -1,8 +1,11 @@
 ## Wellcome!
 I am a Backend Developer originationg from Ukraine, currently living, studying and doing my practice in Merseburg, Germany. My faschination with Computer Science stems from my interest in videogames and science since childhood times. I tried working in a lot of branches of IT, which includes working at my family's ISP company, building controllers on Arduino, programming videogames and building Data Science models, until now being more or less settled on server development. I really like highly abstract mathematical concepts though and would be glad working in this type of field.
 
+## Industry Experience
+I had experience in commercial projects, that run on ReactJS and Arduino Platforms (yes, you read it right, exactly theese two).
+
 ## Arduino Nano Projects:
-I learned a lot from them and it was a huge fun!
+I learned a lot from about programming and electronics doing private Arduino projects, and it was a huge fun.
 [Check out the Footage](https://youtu.be/MHeMFTgxyAI)
 
 ## Codewars
