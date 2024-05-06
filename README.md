@@ -1,4 +1,4 @@
-### Wellcome!
+# Wellcome!
 
 I am a Backend and Embedded Developer originationg from Ukraine, currently living, studying and working in Sachsen-Anhalt, Germany. My faschination with Computer Science stems from my love of videogames and fascination with science since childhood. I like to engage in all sorts of developmental activities, which is obvious from my projects tab below, but my main areas are **Backend** (more specifically, Java Spring Boot development) and **Embedded** (mostly, AVR and Arduino projects). I love complex, abstract and highly mathematics-related comp
 
